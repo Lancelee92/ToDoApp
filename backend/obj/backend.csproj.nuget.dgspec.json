@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lee_y\\Documents\\projects\\ToDoApp\\backend\\backend.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\project\\ToDoApp\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lee_y\\Documents\\projects\\ToDoApp\\backend\\backend.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\ToDoApp\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lee_y\\Documents\\projects\\ToDoApp\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\ToDoApp\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\lee_y\\Documents\\projects\\ToDoApp\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\lee_y\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lee_y\\Documents\\projects\\ToDoApp\\backend\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\ToDoApp\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\ToDoApp\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lee_y\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -54,7 +54,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -64,7 +68,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
